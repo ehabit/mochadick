@@ -161,14 +161,3 @@ Wood treated with whale oil.  Necessary for most whaling items.
 
 ##### Mocha Dick Scrimshaw
 
-* * *
-
-### Non-Whale Entities
-
-##### Slaves
-
-Villagers turned into slaves do not trade and are used to perform menial tasks in slave pits.  This encourages players to keep villagers with good trades and enslave the otherwise useless ones.
-
-##### Pirate Villagers
-
-Only found in the white whale dimension.  They trade end game Mocha Dick items for Mocha Dick scrimshaw.
