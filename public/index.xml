@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mocha Dick</title>
-    <link>http://localhost:1313/</link>
+    <link>http://ehabit.github.io/mochadick_web/</link>
     <description>Recent content on Mocha Dick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Mar 2015 16:39:21 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ehabit.github.io/mochadick_web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mocha Dick Items</title>
-      <link>http://localhost:1313/post/spec/items/</link>
+      <link>http://ehabit.github.io/mochadick_web/post/spec/items/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
       
-      <guid>http://localhost:1313/post/spec/items/</guid>
+      <guid>http://ehabit.github.io/mochadick_web/post/spec/items/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -187,10 +187,10 @@
     
     <item>
       <title>Mocha Dick Whales</title>
-      <link>http://localhost:1313/post/spec/whales/</link>
+      <link>http://ehabit.github.io/mochadick_web/post/spec/whales/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
       
-      <guid>http://localhost:1313/post/spec/whales/</guid>
+      <guid>http://ehabit.github.io/mochadick_web/post/spec/whales/</guid>
       <description>
 
 &lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
@@ -215,10 +215,10 @@
     
     <item>
       <title>A Journey Begins</title>
-      <link>http://localhost:1313/post/mochadick/</link>
+      <link>http://ehabit.github.io/mochadick_web/post/mochadick/</link>
       <pubDate>Tue, 17 Mar 2015 05:14:50 -0400</pubDate>
       
-      <guid>http://localhost:1313/post/mochadick/</guid>
+      <guid>http://ehabit.github.io/mochadick_web/post/mochadick/</guid>
       <description>&lt;p&gt;An Inuit hunter with his harpoon at the ready as he sails across a foggy ocean in search of a baby beluga.  If he doesn&amp;rsquo;t find one soon, he and his family will starve this winter.&lt;/p&gt;
 </description>
     </item>
