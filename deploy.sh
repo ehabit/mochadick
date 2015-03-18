@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+hugo -t casper
 git add .
 git commit -m 'Updated site content'
 git push --force
