@@ -159,5 +159,12 @@ Players can break these on their boats to name them.
 Wood treated with whale oil.  Necessary for most whaling items.
 
 
+### Trading Items
+
 ##### Mocha Dick Scrimshaw
 
+A highly valued decorative item.  Pirate villagers will trade end game Mocha Dick items in exchange for these precious goods.
+
+##### Slaves
+
+Pirate villagers will trade certain end game Mocha Dick items in exchange for slave cargo. 
