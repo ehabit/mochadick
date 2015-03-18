@@ -5,12 +5,15 @@ title = "Mocha Dick Whales"
 
 +++
 
-+ Baby Beluga
+##### Baby Beluga
+A baby whale drops a small amount of Baby Whale Blubber and Baby Whale Bone.  Can be found in deep ocean biomes.
 
-+ Orca Whale
+##### Orca Whale
+
 Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.
 
-+ Humpback Whale
-+ Sperm Whale
-+ Nether Whale
-+ Mocha Dick
+##### Humpback Whale
+##### Sperm Whale
+##### Nether Whale
+##### Mocha Dick
+Can only be found in the white whale dimension.  Drops Mocha Dick bones and Mocha Dick blubber.
