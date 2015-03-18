@@ -167,4 +167,4 @@ A highly valued decorative item.  Pirate villagers will trade end game Mocha Dic
 
 ##### Slaves
 
-Pirate villagers will trade certain end game Mocha Dick items in exchange for slave cargo. 
+Pirate villagers will trade certain end game Mocha Dick items in exchange for slave chattel. 
