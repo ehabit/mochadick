@@ -5,9 +5,11 @@ title = "Mocha Dick Items"
 
 +++
 
+Mocha Dick is focused on the great age of sailing, whaling and piracy.  
+
 * * *
 
-### Harpoons
+### Harpoons and Weapons
 
 ##### Stone Harpoon
 
@@ -22,6 +24,15 @@ A mid-tier harpoon.
 
 ##### Whale Bone Harpoon
 A mid-tier harpoon.
+
+##### Scrimshaw Musket
+A basic musket.  Takes a while to reload and isn't very accurate, but packs a punch.
+
+##### Scrimshaw Blunderbuss
+A high-tier weapon.  The shells the blunderbuss use take a lot of processing to create in goodly quantities, but most sea dogs find this to be well worth it.
+
+##### Scrimshaw Revolver
+End game Mocha Dick item can be traded for with Pirate Villagers.
 
 
 * * *
@@ -133,9 +144,14 @@ This is a large multi-block structure that kills mobs in a nearby arena.  Powere
 
 ### Miscellaneous Items
 
-##### Wine bottle
+##### Wine Bottle
 
 Players can break these on their boats to name them.
+
+##### Shackles
+
+Allows a player to turn a villager into a slave.  Slaves can't trade, but they can be traded and put into pits to do work.
+
 
 
 
