@@ -93,13 +93,13 @@ An end game Mocha Dick boat attachment is only usable on high tier boats.  It gr
 
 ### Blocks
 
-##### Woodworker's Workbench 
+##### Woodworker's Bench 
 
 This is used to craft boat components necessary to construct whaling boats.
 
 ##### Boatworks
 
-A multiblock structure used to build new whaling boats.  Allows players to attach upgrades to their vessels.
+Used to build new whaling boats.  Allows players to attach upgrades to their vessels.
 
 ##### Whale Oil Furnace
 
