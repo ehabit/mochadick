@@ -7,7 +7,7 @@
 
   	<meta property="og:title" content=" Mocha Dick" />
   	<meta property="og:site_name" content="Mocha Dick" />
-  	<meta property="og:url" content="http://yourSiteHere/" />
+  	<meta property="og:url" content="http://localhost:1313/" />
     
     
     <meta property="og:type" content="website" />
@@ -22,17 +22,17 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="http://yoursitehere/images/favicon.ico">
-	  <link rel="apple-touch-icon" href="http://yoursitehere/images/apple-touch-icon.png" />
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
     
-    <link rel="stylesheet" type="text/css" href="http://yoursitehere/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
-    <link href="http://yourSiteHere/index.xml" rel="alternate" type="application/rss+xml" title="Mocha Dick" />
+    <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Mocha Dick" />
     
     <meta name="generator" content="Hugo 0.14-DEV" />
 
-    <link rel="canonical" href="http://yoursitehere/" />
+    <link rel="canonical" href="/" />
 
     
 </head>
@@ -44,7 +44,7 @@
     
     <nav class="main-nav overlay clearfix">
         
-        <a class="subscribe-button icon-feed" href="http://yourSiteHere/index.xml">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="http://localhost:1313/index.xml">Subscribe</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -152,8 +152,11 @@
     </footer>
 
     
-    <script type="text/javascript" src="http://yoursitehere/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="http://yoursitehere/js/index.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
