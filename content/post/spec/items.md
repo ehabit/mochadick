@@ -17,6 +17,13 @@ A basic whale hunting tool used by Inuit whale hunters.  Can damage baby whales.
 
 An iron thrown harpoon. More damage than a stone harpoon.  
 
+##### Obsidian Tipped Harpoon
+A mid-tier harpoon.
+
+##### Whale Bone Harpoon
+A mid-tier harpoon.
+
+
 * * *
 
 ### Boats
