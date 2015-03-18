@@ -3,6 +3,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://ehabit.github.io/mochadick_web/"
+baseurl: "http://ehabit.github.io/mochadick/"
 title: "Mocha Dick - The One and Only Minecraft Whaling Mod"
 canonifyurls: true
