@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mocha Dick</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mocha Dick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2015 16:39:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mocha Dick Whales</title>
+      <link>http://localhost:1313/post/spec/whales/</link>
+      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/spec/whales/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Baby Beluga&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Orca Whale
+Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Humpback Whale&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sperm Whale&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nether Whale&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mocha Dick&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mocha Dick Items</title>
+      <link>http://localhost:1313/post/spec/items/</link>
+      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/spec/items/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;harpoons:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Harpoons&lt;/h3&gt;
+
+&lt;h5 id=&#34;stone-harpoon:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Stone Harpoon&lt;/h5&gt;
+
+&lt;p&gt;A basic whale hunting tool used by Inuit whale hunters.  Can damage baby whales.&lt;/p&gt;
+
+&lt;h5 id=&#34;iron-harpoon:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Iron Harpoon&lt;/h5&gt;
+
+&lt;p&gt;An iron thrown harpoon. More damage than a stone harpoon.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;boats:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Boats&lt;/h3&gt;
+
+&lt;h5 id=&#34;whaling-canoe:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaling Canoe&lt;/h5&gt;
+
+&lt;p&gt;A basic wooden whaling canoe improves the sturdiness of the boat. This is a basic upgrade from the vanilla Minecraft boats.  Can attach a single whaling upgrade.&lt;/p&gt;
+
+&lt;h5 id=&#34;whaling-sail-boat:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaling Sail Boat&lt;/h5&gt;
+
+&lt;p&gt;A whaling sail boat moves faster than whaling canoes and can have three whaling upgrades attached.&lt;/p&gt;
+
+&lt;h5 id=&#34;whaler:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaler&lt;/h5&gt;
+
+&lt;p&gt;A mid-tier whaling boat.  Suitable for hunting many of the adult whales in the world.&lt;/p&gt;
+
+&lt;h5 id=&#34;steam-powered-whaler:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Steam Powered Whaler&lt;/h5&gt;
+
+&lt;p&gt;An upper tier whaling boat.  Powered by whale oil burning to generate steam.  High hit points but burns whale oil very fast and cannot move without a whale oil supply.&lt;/p&gt;
+
+&lt;h5 id=&#34;whalebone-pirate-ship:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whalebone Pirate Ship&lt;/h5&gt;
+
+&lt;p&gt;An upper tier whaling boat.  Not quite as tanky as the steam powered whaler, but doesn&amp;rsquo;t constantly consume whale oil.  Costs Mocha Dick&amp;rsquo;s whale bones to create.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;whaling-boat-attachments:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaling Boat Attachments&lt;/h3&gt;
+
+&lt;h5 id=&#34;whale-oil-lamp:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Lamp&lt;/h5&gt;
+
+&lt;p&gt;A light source for whaling boats to reduce the ocean fog around their vessel and increase visibility on the oceans.&lt;/p&gt;
+
+&lt;h5 id=&#34;whale-oil-try-pot:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Try Pot&lt;/h5&gt;
+
+&lt;p&gt;A try pot the player can interact with while onboard the vessel.  Try pots are used to boil down whale blubber into whale oil.&lt;/p&gt;
+
+&lt;h5 id=&#34;whale-oil-furnace:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Furnace&lt;/h5&gt;
+
+&lt;p&gt;A basic furnace the player can use and interact with while onboard the vessel.&lt;/p&gt;
+
+&lt;h5 id=&#34;harpoon-gun:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Harpoon Gun&lt;/h5&gt;
+
+&lt;p&gt;A necessary whaler&amp;rsquo;s weapon.  It provide increased force and accuracy for harpoons and is necessary to shoot some of the more advanced harpoons.&lt;/p&gt;
+
+&lt;h5 id=&#34;fishing-net:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Fishing Net&lt;/h5&gt;
+
+&lt;p&gt;Gathers fishes for you as you sail.  An excellent and reliable food source on the open sea.&lt;/p&gt;
+
+&lt;h5 id=&#34;hammock:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Hammock&lt;/h5&gt;
+
+&lt;p&gt;Acts like a sleeping bag from open blocks, allowing players to go to sleep on their boat to change time of day.  This item does not change a player&amp;rsquo;s spawn point.&lt;/p&gt;
+
+&lt;h5 id=&#34;ice-breaker:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Ice Breaker&lt;/h5&gt;
+
+&lt;p&gt;Allows players to sail through frozen ocean biomes. Their boat breaks any ice in front of them to clear a path to sail through.&lt;/p&gt;
+
+&lt;h5 id=&#34;heat-shield:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Heat Shield&lt;/h5&gt;
+
+&lt;p&gt;Allows players to sail through lava.&lt;/p&gt;
+
+&lt;h5 id=&#34;captain-s-chest:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Captain&amp;rsquo;s Chest&lt;/h5&gt;
+
+&lt;p&gt;A double chest&amp;rsquo;s worth of ender-chest-like storage that can only be access from a Captain&amp;rsquo;s Chest block item or from on a boat with the appropriate Captain&amp;rsquo;s Chest attachment.&lt;/p&gt;
+
+&lt;h5 id=&#34;sail-of-endless-winds:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Sail of Endless Winds&lt;/h5&gt;
+
+&lt;p&gt;An end game Mocha Dick boat attachment is only usable on high tier boats.  It grants the boat creative flight so players can sail through the air while in their boats.  This item can only be traded for with pirate villagers in the white whale dimension.  They will only accept Mocha Dick scrimshaw for the item.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;blocks:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Blocks&lt;/h3&gt;
+
+&lt;h5 id=&#34;woodworker-s-workbench:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Woodworker&amp;rsquo;s Workbench&lt;/h5&gt;
+
+&lt;p&gt;This is used to craft boat components necessary to construct whaling boats.&lt;/p&gt;
+
+&lt;h5 id=&#34;boatworks:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Boatworks&lt;/h5&gt;
+
+&lt;p&gt;A multiblock structure used to build new whaling boats.  Allows players to attach upgrades to their vessels.&lt;/p&gt;
+
+&lt;h5 id=&#34;whale-oil-furnace-1:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Furnace&lt;/h5&gt;
+
+&lt;p&gt;A basic furnace powered by whale oil rather than coal.  Provides efficiency boost over regular furnaces.&lt;/p&gt;
+
+&lt;h5 id=&#34;slaver-s-pit:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaver&amp;rsquo;s Pit&lt;/h5&gt;
+
+&lt;p&gt;A multi-block structure that allows whalers to enslave villagers to perform various menial tasks.&lt;/p&gt;
+
+&lt;h5 id=&#34;slaver-s-pit-with-lumberjack-attachment:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaver&amp;rsquo;s Pit with Lumberjack attachment&lt;/h5&gt;
+
+&lt;p&gt;Ruthless whalers don&amp;rsquo;t have time to cut wood.  So, they enslave villagers to cut wood for them.  This is a large multi-block structure that cuts and harvests a nearby wood farm based on how many villagers are trapped within.  Slavers must supply food and water to their slaves in the pit or they will start to die.  Slavers will also need to supply basic stone axes for the slaves.&lt;/p&gt;
+
+&lt;h5 id=&#34;slaver-s-pit-with-cotton-picker-attachment:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaver&amp;rsquo;s Pit with Cotton Picker attachment&lt;/h5&gt;
+
+&lt;p&gt;Ruthless whalers don&amp;rsquo;t have time to till and harvest crops.  So, they enslave villagers to do this work for them.  This is a large multi-block structure that plants and harvests a nearby field based on how many villagers are trapped within.  Slavers must supply water and food to their slaves in the pit or they will start to die.  It&amp;rsquo;s easy to make this a self-sustaining structure with a proper ratio of slave to crop.  Slaves within cannot outgrow the amount of food they generate based on the size of the crop around them or they will die unless otherwise supplied with food.  Slavers will also need to supply basic stone hoes for the slaves.&lt;/p&gt;
+
+&lt;h5 id=&#34;slaver-s-pit-with-gladiator-attachment:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaver&amp;rsquo;s Pit with Gladiator attachment&lt;/h5&gt;
+
+&lt;p&gt;This is a large multi-block structure that kills mobs in a nearby arena.  Powered by villagers enslaved within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;miscellaneous-items:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Miscellaneous Items&lt;/h3&gt;
+
+&lt;h5 id=&#34;wine-bottle:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Wine bottle&lt;/h5&gt;
+
+&lt;p&gt;Players can break these on their boats to name them.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;whale-drops:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Drops&lt;/h3&gt;
+
+&lt;h5 id=&#34;baby-whale-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Baby Whale Blubber&lt;/h5&gt;
+
+&lt;h5 id=&#34;baby-whale-bone:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Baby Whale Bone&lt;/h5&gt;
+
+&lt;h5 id=&#34;whale-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Blubber&lt;/h5&gt;
+
+&lt;h5 id=&#34;whale-bone:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Bone&lt;/h5&gt;
+
+&lt;h5 id=&#34;spermaceti:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Spermaceti&lt;/h5&gt;
+
+&lt;h5 id=&#34;nether-whale-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Nether Whale Blubber&lt;/h5&gt;
+
+&lt;h5 id=&#34;mocha-dick-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Mocha Dick Blubber&lt;/h5&gt;
+
+&lt;h5 id=&#34;mocha-dick-bone:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Mocha Dick Bone&lt;/h5&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;building-parts:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Building Parts&lt;/h3&gt;
+
+&lt;h5 id=&#34;treated-wood:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Treated Wood&lt;/h5&gt;
+
+&lt;p&gt;Wood treated with whale oil.  Necessary for most whaling items.&lt;/p&gt;
+
+&lt;h5 id=&#34;mocha-dick-scrimshaw:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Mocha Dick Scrimshaw&lt;/h5&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;non-whale-entities:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Non-Whale Entities&lt;/h3&gt;
+
+&lt;h5 id=&#34;slaves:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaves&lt;/h5&gt;
+
+&lt;p&gt;Villagers turned into slaves do not trade and are used to perform menial tasks in slave pits.  This encourages players to keep villagers with good trades and enslave the otherwise useless ones.&lt;/p&gt;
+
+&lt;h5 id=&#34;pirate-villagers:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Pirate Villagers&lt;/h5&gt;
+
+&lt;p&gt;Only found in the white whale dimension.  They trade end game Mocha Dick items for Mocha Dick scrimshaw.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Journey Begins</title>
+      <link>http://localhost:1313/post/mochadick/</link>
+      <pubDate>Tue, 17 Mar 2015 05:14:50 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/mochadick/</guid>
+      <description>&lt;p&gt;An Inuit hunter with his harpoon at the ready as he sails across a foggy ocean in search of a baby beluga.  If he doesn&amp;rsquo;t find one soon, he and his family will starve this winter.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

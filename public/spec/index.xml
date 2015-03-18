@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specs on Mocha Dick</title>
+    <link>http://localhost:1313/spec/</link>
+    <description>Recent content in Specs on Mocha Dick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2015 16:39:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/spec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>items</title>
+      <link>http://localhost:1313/spec/items/</link>
+      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
+      
+      <guid>http://localhost:1313/spec/items/</guid>
+      <description>
+
+&lt;h1 id=&#34;mocha-dick-items:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Mocha Dick Items&lt;/h1&gt;
+
+&lt;h3 id=&#34;harpoons:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Harpoons&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Stone Harpoon
+A basic whale hunting tool used by Inuit whale hunters.  Can damage baby whales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Iron Harpoon
+An iron thrown harpoon.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;boats:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Boats&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Whaling Canoe
+A basic wooden whaling canoe improves the sturdiness of the boat. This is a basic upgrade from the vanilla Minecraft boats.  Can attach a single whaling upgrade.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Whaling Sail Boat
+A whaling sail boat moves faster than whaling canoes and can have two whaling upgrades attached.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;whaling-boat-attachments:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaling Boat Attachments&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Whale Oil Lamp
+A light source for whaling boats to reduce the ocean fog around their vessel and increase visibility on the oceans.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Whale Oil Try Pot
+A try pot the player can interact with while onboard the vessel.  Try pots are used to boil down whale blubber into whale oil.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Whale Oil Furnace
+A basic furnace the player can interact with while onboard the vessel.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Harpoon Gun
+A necessary whaler&amp;rsquo;s weapon.  It provide increased force and accuracy for harpoons and is necessary to shoot some of the more advanced harpoons.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fishing Net
+Gathers fishes for you as you sail.  An excellent and reliable food source on the open sea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hammock
+Acts like a sleeping bag from open blocks, allowing players to go to sleep on their boat to change time of day.  This item does not change a player&amp;rsquo;s spawn point.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Captain&amp;rsquo;s Chest
+A double chest&amp;rsquo;s worth of ender-chest-like storage that can only be access from a Captain&amp;rsquo;s Chest block item or from on a boat with the appropriate Captain&amp;rsquo;s Chest attachment.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;blocks:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Blocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Woodworker&amp;rsquo;s Workbench
+This is used to craft boat components necessary to construct whaling boats.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Boatworks
+A multiblock structure used to build new whaling boats.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
