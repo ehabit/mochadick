@@ -17,9 +17,11 @@
       <guid>http://ehabit.github.io/mochadick/post/spec/items/</guid>
       <description>
 
+&lt;p&gt;Mocha Dick is focused on the great age of sailing, whaling and piracy.&lt;/p&gt;
+
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;harpoons:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Harpoons&lt;/h3&gt;
+&lt;h3 id=&#34;harpoons-and-weapons:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Harpoons and Weapons&lt;/h3&gt;
 
 &lt;h5 id=&#34;stone-harpoon:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Stone Harpoon&lt;/h5&gt;
 
@@ -36,6 +38,18 @@
 &lt;h5 id=&#34;whale-bone-harpoon:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Bone Harpoon&lt;/h5&gt;
 
 &lt;p&gt;A mid-tier harpoon.&lt;/p&gt;
+
+&lt;h5 id=&#34;scrimshaw-musket:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Scrimshaw Musket&lt;/h5&gt;
+
+&lt;p&gt;A basic musket.  Takes a while to reload and isn&amp;rsquo;t very accurate, but packs a punch.&lt;/p&gt;
+
+&lt;h5 id=&#34;scrimshaw-blunderbuss:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Scrimshaw Blunderbuss&lt;/h5&gt;
+
+&lt;p&gt;A high-tier weapon.  The shells the blunderbuss use take a lot of processing to create in goodly quantities, but most sea dogs find this to be well worth it.&lt;/p&gt;
+
+&lt;h5 id=&#34;scrimshaw-revolver:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Scrimshaw Revolver&lt;/h5&gt;
+
+&lt;p&gt;End game Mocha Dick item can be traded for with Pirate Villagers.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -141,9 +155,13 @@
 
 &lt;h3 id=&#34;miscellaneous-items:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Miscellaneous Items&lt;/h3&gt;
 
-&lt;h5 id=&#34;wine-bottle:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Wine bottle&lt;/h5&gt;
+&lt;h5 id=&#34;wine-bottle:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Wine Bottle&lt;/h5&gt;
 
 &lt;p&gt;Players can break these on their boats to name them.&lt;/p&gt;
+
+&lt;h5 id=&#34;shackles:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Shackles&lt;/h5&gt;
+
+&lt;p&gt;Allows a player to turn a villager into a slave.  Slaves can&amp;rsquo;t trade, but they can be traded and put into pits to do work.&lt;/p&gt;
 
 &lt;hr /&gt;
 
