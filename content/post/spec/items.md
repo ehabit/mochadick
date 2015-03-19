@@ -6,7 +6,7 @@ image = ""
 
 +++
 
-Mocha Dick is focused on the great age of sailing, whaling and piracy.  
+Mocha Dick focuses on the great age of sailing, whaling and piracy.  
 
 * * *
 
