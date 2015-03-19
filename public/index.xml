@@ -10,6 +10,34 @@
     <atom:link href="http://ehabit.github.io/mochadick/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mocha Dick Whales</title>
+      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
+      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
+      
+      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
+      <description>
+
+&lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
+
+&lt;p&gt;A baby whale drops a small amount of Baby Whale Blubber and Baby Whale Bone.  Can be found in deep ocean biomes.&lt;/p&gt;
+
+&lt;h5 id=&#34;orca-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Orca Whale&lt;/h5&gt;
+
+&lt;p&gt;Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;
+
+&lt;h5 id=&#34;humpback-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Humpback Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;sperm-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Sperm Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;mocha-dick:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Mocha Dick&lt;/h5&gt;
+
+&lt;p&gt;Can only be found in the white whale dimension.  Drops Mocha Dick bones and Mocha Dick blubber.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mocha Dick Items</title>
       <link>http://ehabit.github.io/mochadick/post/spec/items/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
@@ -200,34 +228,6 @@
 &lt;h5 id=&#34;slaves:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaves&lt;/h5&gt;
 
 &lt;p&gt;Pirate villagers will trade certain end game Mocha Dick items in exchange for slave chattel.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mocha Dick Whales</title>
-      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
-      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
-      
-      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
-      <description>
-
-&lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
-
-&lt;p&gt;A baby whale drops a small amount of Baby Whale Blubber and Baby Whale Bone.  Can be found in deep ocean biomes.&lt;/p&gt;
-
-&lt;h5 id=&#34;orca-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Orca Whale&lt;/h5&gt;
-
-&lt;p&gt;Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;
-
-&lt;h5 id=&#34;humpback-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Humpback Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;sperm-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Sperm Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;mocha-dick:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Mocha Dick&lt;/h5&gt;
-
-&lt;p&gt;Can only be found in the white whale dimension.  Drops Mocha Dick bones and Mocha Dick blubber.&lt;/p&gt;
 </description>
     </item>
     
