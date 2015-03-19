@@ -165,6 +165,10 @@ Allows a player to turn a villager into a slave.  Slaves can't trade, but they c
 
 Summons a Kraken.  Players must be in the white whale dimension and must be near the ocean floor in an advanced baot with a submarine upgrade.  Davy Jones' Ring must be traded for with Pirate villagers in the White Whale dimension.  It costs a large amount of slave chattel to attain this item.
 
+##### Davy Jones' Locker
+
+What lies within this legendary chest remains a mystery.  It is believed by many whalers that Davy Jones' Kraken defends his locker in the depths of the sea.  But even if you find it, how will you open it?  Players must use some kind of cross-mod exploit to break into this chest.
+
 * * *
 
 
