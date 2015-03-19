@@ -21,7 +21,7 @@
 
 &lt;h3 id=&#34;the-fog:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;The Fog&lt;/h3&gt;
 
-&lt;p&gt;Land lovers say the fog is a curse from Mocha Dick to protect the whales of the ocean.  Sea dogs and pirates say it is a test from Davey Jones himself to judge the worthy.  If you want to be a whaler, you&amp;rsquo;ll need to face the fog.  If you are within 30 blocks of an ocean or beach you&amp;rsquo;ll find yourself in a slight fog.  If you are on a beach type biome it thickens into a mild fog and out on the ocean biomes you get the thick nasty.  The ocean waters are murky from the fog as well making it difficult to locate sea creatures without some improved technology.   You&amp;rsquo;ve heard of a brave inventor from a nearby province who has crafted a whale oil lamp that pushes back the fog.  If only you had some whale oil&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;Land lovers say the fog is a curse from Mocha Dick to protect the whales of the ocean.  Sea dogs and pirates say it is a test from Davey Jones himself to judge the worthy.  If you want to be a whaler, you&amp;rsquo;ll need to face the fog.  If you are within 30 steps of an ocean or beach you&amp;rsquo;ll find yourself in a slight fog.  If you are on a beach type biome it thickens into a mild fog and out on the ocean biomes you get the thick nasty.  The ocean waters are murky from the fog as well making it difficult to locate sea creatures without some improved technology.   You&amp;rsquo;ve heard of a brave inventor from a nearby province who has crafted a whale oil lamp that pushes back the fog.  If only you had some whale oil&amp;hellip;.&lt;/p&gt;
 
 &lt;h3 id=&#34;the-white-whale-dimension:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;The White Whale Dimension&lt;/h3&gt;
 
@@ -139,9 +139,13 @@
 
 &lt;p&gt;A double chest&amp;rsquo;s worth of ender-chest-like storage that can only be access from a Captain&amp;rsquo;s Chest block item or from on a boat with the appropriate Captain&amp;rsquo;s Chest attachment.&lt;/p&gt;
 
+&lt;h5 id=&#34;submarine:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Submarine&lt;/h5&gt;
+
+&lt;p&gt;An end game Mocha Dick boat attachment that allows boats to go underwater.  Boats burn whale oil to provide oxygen to the player.  The submarine upgrade is necessary to hunt the Kraken.&lt;/p&gt;
+
 &lt;h5 id=&#34;sail-of-endless-winds:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Sail of Endless Winds&lt;/h5&gt;
 
-&lt;p&gt;An end game Mocha Dick boat attachment is only usable on high tier boats.  It grants the boat creative flight so players can sail through the air while in their boats.  This item can only be traded for with pirate villagers in the white whale dimension.  They will only accept Mocha Dick scrimshaw for the item.&lt;/p&gt;
+&lt;p&gt;An end game Mocha Dick boat attachment is only usable on high tier boats.  It grants the boat creative flight so players can sail through the air while in their boats.  This item can only be traded for with pirate villagers in the white whale dimension.  They will only accept White Whale bone scrimshaw for the item.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -191,6 +195,10 @@
 
 &lt;p&gt;Allows a player to turn a villager into a slave.  Slaves can&amp;rsquo;t trade, but they can be traded and put into pits to do work.&lt;/p&gt;
 
+&lt;h5 id=&#34;davey-jones-ring:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Davey Jones&amp;rsquo; Ring&lt;/h5&gt;
+
+&lt;p&gt;Summons a Kraken.  Players must be in the white whale dimension and must be near the ocean floor in an advanced baot with a submarine upgrade.&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;whale-drops:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Drops&lt;/h3&gt;
@@ -207,9 +215,9 @@
 
 &lt;h5 id=&#34;nether-whale-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Nether Whale Blubber&lt;/h5&gt;
 
-&lt;h5 id=&#34;mocha-dick-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Mocha Dick Blubber&lt;/h5&gt;
+&lt;h5 id=&#34;white-whale-blubber:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;White Whale Blubber&lt;/h5&gt;
 
-&lt;h5 id=&#34;mocha-dick-bone:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Mocha Dick Bone&lt;/h5&gt;
+&lt;h5 id=&#34;white-whale-bone:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;White Whale Bone&lt;/h5&gt;
 
 &lt;hr /&gt;
 
@@ -253,9 +261,9 @@
 
 &lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
 
-&lt;h5 id=&#34;mocha-dick:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Mocha Dick&lt;/h5&gt;
+&lt;h5 id=&#34;white-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;White Whale&lt;/h5&gt;
 
-&lt;p&gt;Can only be found in the white whale dimension.  Drops Mocha Dick bones and Mocha Dick blubber.&lt;/p&gt;
+&lt;p&gt;Can only be found in the white whale dimension.  Drops White Whale bones and White Whale blubber.&lt;/p&gt;
 </description>
     </item>
     

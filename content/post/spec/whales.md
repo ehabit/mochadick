@@ -16,5 +16,5 @@ Are found in frozen ocean biomes.  Because they are under the ice, the player wi
 ##### Humpback Whale
 ##### Sperm Whale
 ##### Nether Whale
-##### Mocha Dick
-Can only be found in the white whale dimension.  Drops Mocha Dick bones and Mocha Dick blubber.
+##### White Whale
+Can only be found in the white whale dimension.  Drops White Whale bones and White Whale blubber.

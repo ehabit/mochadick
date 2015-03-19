@@ -103,10 +103,13 @@ Allows players to sail through lava.
 
 A double chest's worth of ender-chest-like storage that can only be access from a Captain's Chest block item or from on a boat with the appropriate Captain's Chest attachment. 
 
+##### Submarine 
+
+An end game Mocha Dick boat attachment that allows boats to go underwater.  Boats burn whale oil to provide oxygen to the player.  The submarine upgrade is necessary to hunt the Kraken.
+
 ##### Sail of Endless Winds
 
-An end game Mocha Dick boat attachment is only usable on high tier boats.  It grants the boat creative flight so players can sail through the air while in their boats.  This item can only be traded for with pirate villagers in the white whale dimension.  They will only accept Mocha Dick scrimshaw for the item.
-
+An end game Mocha Dick boat attachment is only usable on high tier boats.  It grants the boat creative flight so players can sail through the air while in their boats.  This item can only be traded for with pirate villagers in the white whale dimension.  They will only accept White Whale bone scrimshaw for the item.
 
 * * *
 
@@ -158,7 +161,9 @@ Players can break these on their boats to name them.
 Allows a player to turn a villager into a slave.  Slaves can't trade, but they can be traded and put into pits to do work.
 
 
+##### Davey Jones' Ring
 
+Summons a Kraken.  Players must be in the white whale dimension and must be near the ocean floor in an advanced baot with a submarine upgrade.
 
 * * *
 
@@ -174,8 +179,8 @@ Allows a player to turn a villager into a slave.  Slaves can't trade, but they c
 
 ##### Nether Whale Blubber
 
-##### Mocha Dick Blubber
-##### Mocha Dick Bone
+##### White Whale Blubber
+##### White Whale Bone
 
 
 * * *
