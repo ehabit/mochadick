@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mocha Dick</title>
-    <link>http://localhost:1313/mochadick/post/</link>
+    <link>http://ehabit.github.io/mochadick/post/</link>
     <description>Recent content in Posts on Mocha Dick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2015 08:46:41 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/mochadick/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ehabit.github.io/mochadick/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The World is a Dangerous Place</title>
-      <link>http://localhost:1313/mochadick/post/spec/world/</link>
+      <link>http://ehabit.github.io/mochadick/post/spec/world/</link>
       <pubDate>Thu, 19 Mar 2015 08:46:41 -0400</pubDate>
       
-      <guid>http://localhost:1313/mochadick/post/spec/world/</guid>
+      <guid>http://ehabit.github.io/mochadick/post/spec/world/</guid>
       <description>
 
 &lt;h3 id=&#34;the-fog:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;The Fog&lt;/h3&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Mocha Dick Items</title>
-      <link>http://localhost:1313/mochadick/post/spec/items/</link>
+      <link>http://ehabit.github.io/mochadick/post/spec/items/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
       
-      <guid>http://localhost:1313/mochadick/post/spec/items/</guid>
+      <guid>http://ehabit.github.io/mochadick/post/spec/items/</guid>
       <description>
 
 &lt;p&gt;Mocha Dick is focused on the great age of sailing, whaling and piracy.&lt;/p&gt;
@@ -235,10 +235,10 @@
     
     <item>
       <title>Mocha Dick Whales</title>
-      <link>http://localhost:1313/mochadick/post/spec/whales/</link>
+      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
       
-      <guid>http://localhost:1313/mochadick/post/spec/whales/</guid>
+      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
       <description>
 
 &lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
@@ -263,11 +263,11 @@
     
     <item>
       <title>A Journey Begins</title>
-      <link>http://localhost:1313/mochadick/post/mochadickpic/</link>
+      <link>http://ehabit.github.io/mochadick/post/mochadickpic/</link>
       <pubDate>Tue, 17 Mar 2015 05:14:50 -0400</pubDate>
       
-      <guid>http://localhost:1313/mochadick/post/mochadickpic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mochadick/mochadick/mochadickpic/journeybegins.png&#34; alt=&#34;Mocha Dick Pic&#34; /&gt;
+      <guid>http://ehabit.github.io/mochadick/post/mochadickpic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://ehabit.github.io/mochadick/mochadick/mochadickpic/journeybegins.png&#34; alt=&#34;Mocha Dick Pic&#34; /&gt;
 
 An Inuit hunter with his harpoon at the ready as he sails across a foggy ocean in search of a baby beluga.  If he doesn&amp;rsquo;t find one soon, he and his family will starve this winter.&lt;/p&gt;
 </description>
