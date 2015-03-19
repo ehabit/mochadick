@@ -17,7 +17,7 @@ Land lovers say the fog is a curse from Mocha Dick to protect the whales of the 
 
 ### The White Whale Dimension
 
-The White Whate Dimension is a dark and dangerous place.  Mocha Dick himself is said to live here.  Players must sail out over an ocean on a trans-dimensionally upgraded boat at sunset and activate a whale bone compass to travel here.  Pirate villagers and slavers can be found and traded with here as well.
+The White Whate Dimension is a dark and dangerous place.  Mocha Dick himself is said to live here.  Players must sail out over an ocean on a trans-dimensionally upgraded boat at sunset and activate a whale bone compass to travel here.  Pirate villagers and slavers can be found and traded with here as well.  The white whale dimension is deep and dark ocean.  It is said a Kraken lurks in the depths, obedient to only Davey Jones.
 
 ### Water World
 

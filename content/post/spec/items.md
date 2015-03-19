@@ -163,7 +163,7 @@ Allows a player to turn a villager into a slave.  Slaves can't trade, but they c
 
 ##### Davey Jones' Ring
 
-Summons a Kraken.  Players must be in the white whale dimension and must be near the ocean floor in an advanced baot with a submarine upgrade.
+Summons a Kraken.  Players must be in the white whale dimension and must be near the ocean floor in an advanced baot with a submarine upgrade.  Davey Jones' Ring must be traded for with Pirate villagers in the White Whale dimension.  It costs a large amount of slave chattel to attain this item.
 
 * * *
 
