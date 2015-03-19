@@ -2,19 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mocha Dick</title>
-    <link>http://ehabit.github.io/mochadick/</link>
+    <link>http://localhost:1313/mochadick/</link>
     <description>Recent content on Mocha Dick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2015 16:39:21 -0400</lastBuildDate>
-    <atom:link href="http://ehabit.github.io/mochadick/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2015 08:46:41 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/mochadick/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The World is a Dangerous Place</title>
+      <link>http://localhost:1313/mochadick/post/spec/world/</link>
+      <pubDate>Thu, 19 Mar 2015 08:46:41 -0400</pubDate>
+      
+      <guid>http://localhost:1313/mochadick/post/spec/world/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-fog:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;The Fog&lt;/h3&gt;
+
+&lt;p&gt;Land lovers say the fog is a curse from Mocha Dick.  Sea dogs say it is a test from Davey Jones himself to judge the worthy.  If you want to be a whaler, you&amp;rsquo;ll need to face the fog.  If you are within 30 blocks of an ocean or beach you&amp;rsquo;ll find yourself in a slight fog.  If you are on a beach type biome it thickens into a mild fog and out on the ocean biomes you get the thick nasty.  The ocean waters are murky from the fog as well making it difficult to locate sea creatures without some improved technology.   You&amp;rsquo;ve heard of a brave inventor from a nearby province who has crafted a whale oil lamp that pushes back the fog.  If only you had some whale oil&amp;hellip;.&lt;/p&gt;
+
+&lt;h3 id=&#34;slavery:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;Slavery&lt;/h3&gt;
+
+&lt;p&gt;Slaves make an excellent source of automated labor and also serve as a valuable commodity amongst the slavers of the world.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-white-whale-dimension:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;The White Whale Dimension&lt;/h3&gt;
+
+&lt;p&gt;The White Whate Dimension is a dark and dangerous place.  Mocha Dick himself is said to live here.  Players must sail out over an ocean on a trans-dimensionally upgraded boat at sunset and activate a whale bone compass to travel here.  Pirate villagers and slavers can be found and traded with here as well.&lt;/p&gt;
+
+&lt;h3 id=&#34;water-world:1b10292b89f0ac4ad5e24cbfd07e192e&#34;&gt;Water World&lt;/h3&gt;
+
+&lt;p&gt;The Water World is an entirely aquatic world.  Players must have an end game boat with a submarine upgrade attached.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mocha Dick Items</title>
-      <link>http://ehabit.github.io/mochadick/post/spec/items/</link>
+      <link>http://localhost:1313/mochadick/post/spec/items/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
       
-      <guid>http://ehabit.github.io/mochadick/post/spec/items/</guid>
+      <guid>http://localhost:1313/mochadick/post/spec/items/</guid>
       <description>
 
 &lt;p&gt;Mocha Dick is focused on the great age of sailing, whaling and piracy.&lt;/p&gt;
@@ -209,10 +235,10 @@
     
     <item>
       <title>Mocha Dick Whales</title>
-      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
+      <link>http://localhost:1313/mochadick/post/spec/whales/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
       
-      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
+      <guid>http://localhost:1313/mochadick/post/spec/whales/</guid>
       <description>
 
 &lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
@@ -237,11 +263,11 @@
     
     <item>
       <title>A Journey Begins</title>
-      <link>http://ehabit.github.io/mochadick/post/mochadickpic/</link>
+      <link>http://localhost:1313/mochadick/post/mochadickpic/</link>
       <pubDate>Tue, 17 Mar 2015 05:14:50 -0400</pubDate>
       
-      <guid>http://ehabit.github.io/mochadick/post/mochadickpic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://ehabit.github.io/mochadick/mochadick/mochadickpic/journeybegins.png&#34; alt=&#34;Mocha Dick Pic&#34; /&gt;
+      <guid>http://localhost:1313/mochadick/post/mochadickpic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mochadick/mochadick/mochadickpic/journeybegins.png&#34; alt=&#34;Mocha Dick Pic&#34; /&gt;
 
 An Inuit hunter with his harpoon at the ready as he sails across a foggy ocean in search of a baby beluga.  If he doesn&amp;rsquo;t find one soon, he and his family will starve this winter.&lt;/p&gt;
 </description>

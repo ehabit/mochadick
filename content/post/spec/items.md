@@ -2,6 +2,7 @@
 date = "2015-03-17T16:39:21-04:00"
 draft = false
 title = "Mocha Dick Items"
+image = ""
 
 +++
 

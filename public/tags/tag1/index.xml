@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on Mocha Dick</title>
+    <link>http://localhost:1313/mochadick/tags/tag1/</link>
+    <description>Recent content in Tag1 on Mocha Dick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2015 08:46:41 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/mochadick/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The World of Mocha Dick is a Dangerous Place</title>
+      <link>http://localhost:1313/mochadick/post/spec/environment/</link>
+      <pubDate>Thu, 19 Mar 2015 08:46:41 -0400</pubDate>
+      
+      <guid>http://localhost:1313/mochadick/post/spec/environment/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-fog:1c6c8021bf90a0f894bf2ef30de55548&#34;&gt;The Fog&lt;/h3&gt;
+
+&lt;p&gt;Land lovers say the fog is a curse from Mocha Dick.  Sea dogs say it is a test from Davey Jones himself to judge the worthy.  If you want to be a whaler, you&amp;rsquo;ll need to face the fog.  If you are within 30 blocks of an ocean or beach you&amp;rsquo;ll find yourself in a slight fog.  If you are on a beach type biome it thickens into a mild fog and out on the ocean biomes you get the thick nasty.  The ocean waters are murky from the fog as well making it difficult to locate sea creatures without some improved technology.   You&amp;rsquo;ve heard of a brave inventor from a nearby province who has crafted a whale oil lamp that pushes back the fog.  If only you had some whale oil&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

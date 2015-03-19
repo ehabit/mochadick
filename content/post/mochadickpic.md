@@ -2,6 +2,7 @@
 date = "2015-03-17T05:14:50-04:00"
 draft = false
 title = "A Journey Begins"
+image = "mochadickpic/journeybegins.png"
 
 +++
 
