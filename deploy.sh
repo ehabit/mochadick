@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-hugo
+hugo -t Casper
 git add .
 git commit -m 'Updated site, regenerated content.'
 git push origin master --force
