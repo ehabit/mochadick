@@ -167,7 +167,7 @@ Summons a Kraken.  Players must be in the white whale dimension and must be near
 
 ##### Davy Jones' Locker
 
-What lies within this legendary chest remains a mystery.  It is believed by many whalers that Davy Jones' Kraken defends his locker in the depths of the sea.  But even if you find it, how will you open it?  Players must use some kind of cross-mod exploit to break into this chest.
+What lies within this legendary chest remains a mystery.  It is believed by many whalers that Davy Jones' Kraken defends his locker in the depths of the sea.  But even if you find it, how will you open it?  Players must be clever to break into this chest.
 
 * * *
 
