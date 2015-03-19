@@ -139,6 +139,10 @@ Ruthless whalers don't have time to till and harvest crops.  So, they enslave vi
 
 This is a large multi-block structure that kills mobs in a nearby arena.  Powered by villagers enslaved within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.
 
+##### A Whale Oil Lighthouse
+
+Dissipates fog in a radius along where it is built, usually on a shoreline.  Very useful for ports and coastal towns.  Consumes whale oil to provide light.
+
 
 * * *
 
