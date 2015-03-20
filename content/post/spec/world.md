@@ -30,4 +30,4 @@ The Water World is an entirely aquatic world.  Players must have an end game boa
 
 ### The Fountain of Youth
 
-The Fountain of Youth is rumored to have been found by a few brave explorers.  Sir Charles Lakatosu was rumored to have found the Fountain of Youth.  He had left an old man leading a large expedition in search of the fountain and came back alone years later, alone, an invigorated youth.  He denies the rumors and swears witchcraft to be the cause.
+The Fountain of Youth is rumored to have been found by a few brave explorers.  Sir Charles Lakatosu was rumored to have found the Fountain of Youth.  He had left an old man leading a large expedition in search of the fountain and came back alone years later, an invigorated youth.  He denies the rumors and swears witchcraft to be the cause.
