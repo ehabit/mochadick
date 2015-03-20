@@ -81,7 +81,7 @@ A basic furnace the player can use and interact with while onboard the vessel.
 
 ##### Harpoon Gun
 
-A necessary whaler's weapon.  It provide increased force and accuracy for harpoons and is necessary to shoot some of the more advanced harpoons.
+A necessary whaler's weapon.  It provides increased force and accuracy for harpoons and is necessary to shoot some of the more advanced harpoons.
 
 ##### Fishing Net
 
