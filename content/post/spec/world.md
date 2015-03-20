@@ -16,7 +16,7 @@ Land lovers say the fog is a curse from Mocha Dick to protect the oceans from ma
 
 ### Ocean Waters
 
-The waters of the oceans are murky and difficult to explore without the appropriate whale oil light sources.
+The waters are murky and difficult to explore without the appropriate whale oil light sources.  Some sea creatures are aggressive and some will kill you with a single attack if you are swimming and not in a boat.
 
 
 ### The White Whale Dimension
@@ -25,4 +25,9 @@ The White Whate Dimension is a dark and dangerous place.  Mocha Dick is said to 
 
 ### Water World
 
-The Water World is an entirely aquatic world.  Players must have an end game boat with a submarine upgrade attached.
+The Water World is an entirely aquatic world.  Players must have an end game boat with gills and positive pressure bubble attached.  Water World is said to be plentiful with whales of all different types.  Though as of yet unverified, some kind of solar distortions above the waters cause the hues below to differ vibrantly.
+
+
+### The Fountain of Youth
+
+The Fountain of Youth is rumored to have been found by a few brave explorers.  Sir Charles Lakatosu was rumored to have found the Fountain of Youth because he left as an old man leading an large expedition in search of the fountain and came back alone, an invigorated youth.  He denies the rumors and swears witchcraft to be the cause.

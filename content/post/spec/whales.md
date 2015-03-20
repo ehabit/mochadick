@@ -7,7 +7,7 @@ image = ""
 +++
 
 ##### Baby Beluga
-A baby whale drops a small amount of Baby Whale Blubber and Baby Whale Bone.  Can be found in deep ocean biomes.
+A baby whale drops a small amount of Baby Whale Blubber, Baby Whale Bone and Baby Whale Meat.  Can be found in ocean and deep ocean biomes.
 
 ##### Orca Whale
 
