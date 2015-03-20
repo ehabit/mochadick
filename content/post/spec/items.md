@@ -137,7 +137,7 @@ A multi-block structure that allows whalers to enslave villagers to perform vari
 
 ##### Slaver's Pit with Lumberjack attachment
 
-Ruthless whalers don't have time to cut wood.  So, they enslave villagers to cut wood for them.  This is a large multi-block structure that cuts and harvests a nearby wood farm based on how many villagers are trapped within.  Slavers must supply food and water to their slaves in the pit or they will start to die.  Slavers will also need to supply basic stone axes for the slaves.
+Ruthless whalers don't have time to cut wood.  So, they enslave villagers to cut wood for them.  This is a large multi-block structure that plants, cuts and harvests a nearby wood farm based on how many villagers are trapped within.  Slavers must supply food and water to their slaves in the pit or they will start to die.  Slavers will also need to supply basic stone axes for the slaves.
 
 ##### Slaver's Pit with Cotton Picker attachment
 
