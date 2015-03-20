@@ -113,7 +113,7 @@ An end game Mocha Dick boat attachment is only usable on high tier boats.  It gr
 
 ##### Blackbeard's Warp Drive
 
-The old bastard enslaved the Einstein of his generation to build this device for him.  Thousands of whales were slain in its construction.  Blackbeard then killed the brilliant inventor to make sure that no others would possess the knowledge to create such a device.  It allows the boat to create a warp field around itself and jump ahead for short periods of time, burning massive amounts of whale oil in the process.  Players can blink anywhere from 10 to 2000 blocks away.  xIt is unknown where to find or how to build this item.  It is known that this item is required to reach the Water World dimension where Blackbeard supposedly hid his treasure.
+The old bastard enslaved the Einstein of his generation to build this device for him.  Thousands of whales were slain in its construction.  Blackbeard then killed the brilliant inventor to make sure that no others would possess the knowledge to create such a device.  It allows the boat to create a warp field around itself and jump ahead for short periods of time, burning massive amounts of whale oil in the process.  Players can blink anywhere from 10 to 2000 blocks away.  It is unknown where to find or how to build this item.  It is known that this item is required to reach the Water World dimension where Blackbeard supposedly hid his treasure.
 
 * * *
 
