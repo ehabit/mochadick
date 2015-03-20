@@ -65,7 +65,7 @@ An upper tier whaling boat.  Not quite as tanky as the steam powered whaler, but
 * * *
 
 
-### Whaling Boat Attachments
+### Boat Attachments
 
 ##### Whale Oil Lamp
 
@@ -103,13 +103,17 @@ Allows players to sail through lava.
 
 A double chest's worth of ender-chest-like storage that can only be access from a Captain's Chest block item or from on a boat with the appropriate Captain's Chest attachment. 
 
-##### Submarine 
+##### Artificials Gills and Positive Pressure Bubble 
 
 An end game Mocha Dick boat attachment that allows boats to go underwater.  Boats burn whale oil to provide oxygen to the player.  The submarine upgrade is necessary to hunt the Kraken.
 
 ##### Sail of Endless Winds
 
 An end game Mocha Dick boat attachment is only usable on high tier boats.  It grants the boat creative flight so players can sail through the air while in their boats.  This item can only be traded for with pirate villagers in the white whale dimension.  They will only accept White Whale bone scrimshaw for the item.
+
+##### Blackbeard's Warp Drive
+
+The old bastard enslaved the Einstein of his generation to build this device for him.  Thousands of whales were slain in its construction.  Blackbeard then killed the brilliant inventor to make sure that no others would possess the knowledge to create such a device.  It allows the boat to create a warp field around itself and jump ahead for short periods of time, burning massive amounts of whale oil in the process.  Players can blink anywhere from 10 to 2000 blocks away.  It is unknown where to find or how to build this item.  It is known that this item is required to reach the Water World dimension where Blackbeard supposedly hid his treasure.
 
 * * *
 
