@@ -42,6 +42,34 @@
     </item>
     
     <item>
+      <title>Mocha Dick Whales</title>
+      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
+      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
+      
+      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
+      <description>
+
+&lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
+
+&lt;p&gt;A baby whale drops a small amount of Baby Whale Blubber, Baby Whale Bone and Baby Whale Meat.  Can be found in ocean and deep ocean biomes.&lt;/p&gt;
+
+&lt;h5 id=&#34;orca-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Orca Whale&lt;/h5&gt;
+
+&lt;p&gt;Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;
+
+&lt;h5 id=&#34;humpback-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Humpback Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;sperm-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Sperm Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;white-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;White Whale&lt;/h5&gt;
+
+&lt;p&gt;Can only be found in the white whale dimension.  Drops White Whale bones and White Whale blubber.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mocha Dick Items</title>
       <link>http://ehabit.github.io/mochadick/post/spec/items/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
@@ -147,7 +175,7 @@
 
 &lt;p&gt;A double chest&amp;rsquo;s worth of ender-chest-like storage that can only be accessed from a Captain&amp;rsquo;s Chest block item or from on a boat with the appropriate Captain&amp;rsquo;s Chest attachment.&lt;/p&gt;
 
-&lt;h5 id=&#34;artificials-gills-and-positive-pressure-bubble:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Artificials Gills and Positive Pressure Bubble&lt;/h5&gt;
+&lt;h5 id=&#34;artificial-gills-and-positive-pressure-bubble:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Artificial Gills and Positive Pressure Bubble&lt;/h5&gt;
 
 &lt;p&gt;An end game Mocha Dick boat attachment that allows boats to go underwater.  Boats burn whale oil to provide oxygen to the player.  The submarine upgrade is necessary to hunt the Kraken.&lt;/p&gt;
 
@@ -173,7 +201,7 @@
 
 &lt;h5 id=&#34;try-pot:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Try Pot&lt;/h5&gt;
 
-&lt;p&gt;Used to boil down whale blubber into whale oil.&lt;/p&gt;
+&lt;p&gt;Used to boil down whale blubber into whale oil.c&lt;/p&gt;
 
 &lt;h5 id=&#34;whale-oil-furnace-1:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Furnace&lt;/h5&gt;
 
@@ -256,34 +284,6 @@
 &lt;h5 id=&#34;slaves:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaves&lt;/h5&gt;
 
 &lt;p&gt;Pirate villagers will trade certain end game Mocha Dick items in exchange for slave chattel.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mocha Dick Whales</title>
-      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
-      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
-      
-      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
-      <description>
-
-&lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
-
-&lt;p&gt;A baby whale drops a small amount of Baby Whale Blubber, Baby Whale Bone and Baby Whale Meat.  Can be found in ocean and deep ocean biomes.&lt;/p&gt;
-
-&lt;h5 id=&#34;orca-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Orca Whale&lt;/h5&gt;
-
-&lt;p&gt;Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;
-
-&lt;h5 id=&#34;humpback-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Humpback Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;sperm-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Sperm Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;white-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;White Whale&lt;/h5&gt;
-
-&lt;p&gt;Can only be found in the white whale dimension.  Drops White Whale bones and White Whale blubber.&lt;/p&gt;
 </description>
     </item>
     

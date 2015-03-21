@@ -103,7 +103,7 @@ Allows players to sail through lava.
 
 A double chest's worth of ender-chest-like storage that can only be accessed from a Captain's Chest block item or from on a boat with the appropriate Captain's Chest attachment. 
 
-##### Artificials Gills and Positive Pressure Bubble 
+##### Artificial Gills and Positive Pressure Bubble 
 
 An end game Mocha Dick boat attachment that allows boats to go underwater.  Boats burn whale oil to provide oxygen to the player.  The submarine upgrade is necessary to hunt the Kraken.
 
@@ -129,7 +129,7 @@ Used to build new whaling boats.  Allows players to attach upgrades to their ves
 
 ##### Try Pot
 
-Used to boil down whale blubber into whale oil.
+Used to boil down whale blubber into whale oil.c
 
 ##### Whale Oil Furnace
 
