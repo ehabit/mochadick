@@ -171,6 +171,10 @@
 
 &lt;p&gt;Used to build new whaling boats.  Allows players to attach upgrades to their vessels.&lt;/p&gt;
 
+&lt;h5 id=&#34;try-pot:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Try Pot&lt;/h5&gt;
+
+&lt;p&gt;Used to boil down whale blubber into whale oil.&lt;/p&gt;
+
 &lt;h5 id=&#34;whale-oil-furnace-1:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Furnace&lt;/h5&gt;
 
 &lt;p&gt;A basic furnace powered by whale oil rather than coal.  Provides efficiency boost over regular furnaces.&lt;/p&gt;
@@ -191,9 +195,9 @@
 
 &lt;p&gt;This is a large multi-block structure that kills mobs in a nearby arena.  Powered by villagers enslaved within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.&lt;/p&gt;
 
-&lt;h5 id=&#34;a-whale-oil-lighthouse:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;A Whale Oil Lighthouse&lt;/h5&gt;
+&lt;h5 id=&#34;massive-whale-oil-lamp:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Massive Whale Oil Lamp&lt;/h5&gt;
 
-&lt;p&gt;Dissipates fog in a radius along where it is built, usually on a shoreline.  Very useful for ports and coastal towns.  Consumes whale oil to provide light.&lt;/p&gt;
+&lt;p&gt;Dissipates fog in a large radius along where it is built, usually on a shoreline.  Suitable atop lighthouses.  Very useful for ports and coastal towns.  Consumes whale oil to provide light.&lt;/p&gt;
 
 &lt;hr /&gt;
 

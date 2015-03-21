@@ -127,6 +127,10 @@ This is used to craft boat components necessary to construct whaling boats.
 
 Used to build new whaling boats.  Allows players to attach upgrades to their vessels.
 
+##### Try Pot
+
+Used to boil down whale blubber into whale oil.
+
 ##### Whale Oil Furnace
 
 A basic furnace powered by whale oil rather than coal.  Provides efficiency boost over regular furnaces.
@@ -147,9 +151,9 @@ Ruthless whalers don't have time to till and harvest crops.  So, they enslave vi
 
 This is a large multi-block structure that kills mobs in a nearby arena.  Powered by villagers enslaved within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.
 
-##### A Whale Oil Lighthouse
+##### Massive Whale Oil Lamp
 
-Dissipates fog in a radius along where it is built, usually on a shoreline.  Very useful for ports and coastal towns.  Consumes whale oil to provide light.
+Dissipates fog in a large radius along where it is built, usually on a shoreline.  Suitable atop lighthouses.  Very useful for ports and coastal towns.  Consumes whale oil to provide light.
 
 
 * * *
