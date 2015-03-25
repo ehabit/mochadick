@@ -135,6 +135,9 @@ Used to boil down whale blubber into whale oil.c
 
 A basic furnace powered by whale oil rather than coal.  Provides efficiency boost over regular furnaces.
 
+##### Whale Oil Light
+
+A light powered by whale oil. It pushes back both darkness and fog.
 
 ##### Slaver's Pit 
 A multi-block structure that allows whalers to enslave villagers to perform various menial tasks.  
@@ -149,7 +152,7 @@ Ruthless whalers don't have time to till and harvest crops.  So, they enslave vi
 
 ##### Slaver's Pit with Gladiator attachment
 
-This is a large multi-block structure that kills mobs in a nearby arena.  Powered by villagers enslaved within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.
+This is a large multi-block structure that kills mobs in a nearby arena.  Powered by enslaved villagers within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.
 
 ##### Massive Whale Oil Lamp
 
@@ -176,6 +179,19 @@ Summons a Kraken.  Players must be in the white whale dimension and must be near
 ##### Davy Jones' Locker
 
 What lies within this legendary chest remains a mystery.  It is believed by many whalers that Davy Jones' Kraken defends his locker in the depths of the sea.  But even if you find it, how will you open it?  Players must be clever to break into this chest.
+
+
+##### Whaleskin Pouch
+
+A simple pouch for storing items.
+
+##### Whaleskin Flask
+
+A simple flask for storing whale oil.  
+
+##### Whale Oil Lantern
+
+A simple lantern for lighting your way and pushing back the fog.  Must have a Whaleskin Flask with some whale oil in it to burn.  Shift-R-Click to toggle on/off.
 
 * * *
 

@@ -42,34 +42,6 @@
     </item>
     
     <item>
-      <title>Mocha Dick Whales</title>
-      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
-      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
-      
-      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
-      <description>
-
-&lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
-
-&lt;p&gt;A baby whale drops a small amount of Baby Whale Blubber, Baby Whale Bone and Baby Whale Meat.  Can be found in ocean and deep ocean biomes.&lt;/p&gt;
-
-&lt;h5 id=&#34;orca-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Orca Whale&lt;/h5&gt;
-
-&lt;p&gt;Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;
-
-&lt;h5 id=&#34;humpback-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Humpback Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;sperm-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Sperm Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
-
-&lt;h5 id=&#34;white-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;White Whale&lt;/h5&gt;
-
-&lt;p&gt;Can only be found in the white whale dimension.  Drops White Whale bones and White Whale blubber.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Mocha Dick Items</title>
       <link>http://ehabit.github.io/mochadick/post/spec/items/</link>
       <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
@@ -207,6 +179,10 @@
 
 &lt;p&gt;A basic furnace powered by whale oil rather than coal.  Provides efficiency boost over regular furnaces.&lt;/p&gt;
 
+&lt;h5 id=&#34;whale-oil-light:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Light&lt;/h5&gt;
+
+&lt;p&gt;A light powered by whale oil. It pushes back both darkness and fog.&lt;/p&gt;
+
 &lt;h5 id=&#34;slaver-s-pit:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaver&amp;rsquo;s Pit&lt;/h5&gt;
 
 &lt;p&gt;A multi-block structure that allows whalers to enslave villagers to perform various menial tasks.&lt;/p&gt;
@@ -221,7 +197,7 @@
 
 &lt;h5 id=&#34;slaver-s-pit-with-gladiator-attachment:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaver&amp;rsquo;s Pit with Gladiator attachment&lt;/h5&gt;
 
-&lt;p&gt;This is a large multi-block structure that kills mobs in a nearby arena.  Powered by villagers enslaved within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.&lt;/p&gt;
+&lt;p&gt;This is a large multi-block structure that kills mobs in a nearby arena.  Powered by enslaved villagers within.  Slaves must be supplied with food, water, and stone swords or better.  There is a slave mortality rate regardless.  Harvests items and experience from mobs killed.&lt;/p&gt;
 
 &lt;h5 id=&#34;massive-whale-oil-lamp:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Massive Whale Oil Lamp&lt;/h5&gt;
 
@@ -246,6 +222,18 @@
 &lt;h5 id=&#34;davy-jones-locker:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Davy Jones&amp;rsquo; Locker&lt;/h5&gt;
 
 &lt;p&gt;What lies within this legendary chest remains a mystery.  It is believed by many whalers that Davy Jones&amp;rsquo; Kraken defends his locker in the depths of the sea.  But even if you find it, how will you open it?  Players must be clever to break into this chest.&lt;/p&gt;
+
+&lt;h5 id=&#34;whaleskin-pouch:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaleskin Pouch&lt;/h5&gt;
+
+&lt;p&gt;A simple pouch for storing items.&lt;/p&gt;
+
+&lt;h5 id=&#34;whaleskin-flask:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whaleskin Flask&lt;/h5&gt;
+
+&lt;p&gt;A simple flask for storing whale oil.&lt;/p&gt;
+
+&lt;h5 id=&#34;whale-oil-lantern:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Whale Oil Lantern&lt;/h5&gt;
+
+&lt;p&gt;A simple lantern for lighting your way and pushing back the fog.  Must have a Whaleskin Flask with some whale oil in it to burn.  Shift-R-Click to toggle on/off.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -284,6 +272,34 @@
 &lt;h5 id=&#34;slaves:14154d75c456ce7e0244b9b9c074dce1&#34;&gt;Slaves&lt;/h5&gt;
 
 &lt;p&gt;Pirate villagers will trade certain end game Mocha Dick items in exchange for slave chattel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mocha Dick Whales</title>
+      <link>http://ehabit.github.io/mochadick/post/spec/whales/</link>
+      <pubDate>Tue, 17 Mar 2015 16:39:21 -0400</pubDate>
+      
+      <guid>http://ehabit.github.io/mochadick/post/spec/whales/</guid>
+      <description>
+
+&lt;h5 id=&#34;baby-beluga:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Baby Beluga&lt;/h5&gt;
+
+&lt;p&gt;A baby whale drops a small amount of Baby Whale Blubber, Baby Whale Bone and Baby Whale Meat.  Can be found in ocean and deep ocean biomes.&lt;/p&gt;
+
+&lt;h5 id=&#34;orca-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Orca Whale&lt;/h5&gt;
+
+&lt;p&gt;Are found in frozen ocean biomes.  Because they are under the ice, the player will want to have an ice breaker upgrade attached to their boat before even considering hunting one of these aggressive whales.&lt;/p&gt;
+
+&lt;h5 id=&#34;humpback-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Humpback Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;sperm-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Sperm Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;nether-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;Nether Whale&lt;/h5&gt;
+
+&lt;h5 id=&#34;white-whale:e717e4dde30ab463caf6360abfdef12c&#34;&gt;White Whale&lt;/h5&gt;
+
+&lt;p&gt;Can only be found in the white whale dimension.  Drops White Whale bones and White Whale blubber.&lt;/p&gt;
 </description>
     </item>
     
