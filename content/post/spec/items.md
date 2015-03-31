@@ -85,7 +85,7 @@ A necessary whaler's weapon.  It provides increased force and accuracy for harpo
 
 ##### Fishing Net
 
-Gathers fishes for you as you sail.  An excellent and reliable food source on the open sea.
+Gathers fish for you as you sail.  An excellent and reliable food source on the open sea.
 
 ##### Hammock
 
